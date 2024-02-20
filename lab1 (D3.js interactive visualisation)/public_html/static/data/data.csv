@@ -1,0 +1,21 @@
+Student,Indicator,value,Color
+Student 1 (Michael),Weekly work hours,0,-2.3
+Student 2 (Paul),Weekly work hours,20.0,0.9
+Student 3 (Sarah),Weekly work hours,20.0,0.9
+Student 4 (Liz),Weekly work hours,32.0,1.7
+Student 5 (Craig),Weekly work hours,40.0,2.3
+Student 1 (Michael),Weekly study hours,45.3,1.6
+Student 2 (Paul),Weekly study hours,23.4,-0.12
+Student 3 (Sarah),Weekly study hours,12.6,-1.2
+Student 4 (Liz),Weekly study hours,37.3,1.2
+Student 5 (Craig),Weekly study hours,8.7,-0.9
+Student 1 (Michael),Life satisfaction,91.3,2.2
+Student 2 (Paul),Life satisfaction,30.1,-2.1
+Student 3 (Sarah),Life satisfaction,71.2,1.1
+Student 4 (Liz),Life satisfaction,92.3,2.53
+Student 5 (Craig),Life satisfaction,50.4,-1.5
+Student 1 (Michael),Student skills,90.4,2.8
+Student 2 (Paul),Student skills,72.6,2.1
+Student 3 (Sarah),Student skills,54.0,-0.2092138045887913
+Student 4 (Liz),Student skills,88.3,2.4
+Student 5 (Craig),Student skills,25.1,-1.9

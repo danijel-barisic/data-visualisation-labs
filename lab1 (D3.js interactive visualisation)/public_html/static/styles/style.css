@@ -1,0 +1,36 @@
+body {
+    padding-left: 5em;
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+    color: #222222;
+    background-color: #fff;
+}
+
+.container {
+    display: table-cell;
+    vertical-align:top;
+    height: 500px;
+    padding: 10px;
+    border: 0px solid black;
+    text-align: center;
+    font-size: large;
+}
+
+.tooltip {
+    position: absolute;
+    opacity: 0.8;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.highlightable {
+    stroke-width: 2;
+    stroke: none;
+    rx: 4;
+    ry: 4;
+}
+
+.highlighted {
+    stroke: black;
+}
+

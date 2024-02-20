@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Vizualizacija podataka (VIZPOD) 2023/2024</title>
+        <link rel="stylesheet" href="static/styles/style.css">
+        <link rel="shortcut icon" href="static/favicon.ico">
+        <script src="https://d3js.org/d3.v6.min.js"></script>
+    </head>
+    <body>
+        <h1>VIZPOD 2023/2024 - Laboratory Excercise 1</h1>
+        <p>Your name, surname and student ID:</br>
+        Danijel Barišić 0036524867</p>
+
+        <div class="container" id="svg_heat_map">
+        </div>
+        <div class="container" id="svg_bar_chart">
+        </div>
+
+        <script src="static/js/sharedState.js"></script>
+        <script src="static/js/plot_bar_chart.js"></script>
+        <script src="static/js/plot_heat_map.js"></script>
+        <script>
+            plotBarChart();
+            plotHeatMap();
+        </script>
+
+    </body>
+</html>
